@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "labyrinth.h": "c",
+        "sdl_image.h": "c"
+    }
+}
